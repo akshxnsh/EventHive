@@ -1,7 +1,7 @@
-# Eventify - MERN Event Management System
+# EventHive - MERN Event Management System
 
 ## Project Overview
-Eventify is a full-stack event management web application built with the MERN stack (MongoDB, Express, React, Node.js). It allows users to discover, register for, and manage events, while providing special admin controls for event and user management.
+EventHive is a full-stack event management web application built with the MERN stack (MongoDB, Express, React, Node.js). It allows users to discover, register for, and manage events, while providing special admin controls for event and user management.
 
 ## Features
 
